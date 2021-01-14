@@ -1,3 +1,6 @@
-# Data_Course_MYLASTNAMEHello World
+# Data_Course_MYLASTNAME
+Hello World
 Hello World
 This README file contains information about my uploaded assignments
+
+Editing text within GitHub
